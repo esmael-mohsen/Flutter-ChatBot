@@ -43,3 +43,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter & Dart
+build/
+*.iml
+.pub-cache/
+.dart_tool/
+.env
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
